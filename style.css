@@ -1,0 +1,29 @@
+html{
+  scroll-behavior: smooth;
+}
+#menu{
+  list-style: none;
+    font-family: monospace;
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+  z-index: 10;
+    cursor: pointer;
+     margin-left: 380px;
+  text-align: left;
+}
+body{
+  text-align: center;
+}
+a{
+    text-decoration: none;
+    color: green;
+    text-shadow: 2px 2px gainsboro;
+}
+.button{
+  cursor: pointer;
+}
+.img{
+  border-radius: 50px;
+  
+}
